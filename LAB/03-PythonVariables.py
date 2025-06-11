@@ -4,5 +4,3 @@ score1 = 4
 score2 = 3
 print(team1, "versus", team2)
 print("Final score:", score1, "to", score2)
-print(f"{team1}, versus, {team2}")
-print(f"Final score:, {score1}, to, {score2}"
