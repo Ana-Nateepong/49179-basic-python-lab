@@ -1,0 +1,1 @@
+In this worksheet I've learn to use different kind of variable and mathematical expression and how to fix error and way to rearrange code into a better format
