@@ -13,9 +13,9 @@ elif (65 <= total <= 69):
     print("C+")
 elif (60 <= total <= 64):
     print("C")
-elif 55 <= total <= 59:
+elif (55 <= total <= 59):
     print("D+")
-elif 50 <= total <= 54:
+elif (50 <= total <= 54):
     print("D")
 else:
     print("F")
